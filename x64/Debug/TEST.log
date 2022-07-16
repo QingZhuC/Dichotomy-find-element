@@ -1,0 +1,3 @@
+﻿  源.c
+E:\Visual Studio 2022\1project\TEST\源.c(46,8): warning C4013: “exit”未定义；假设外部返回 int
+  TEST.vcxproj -> E:\Visual Studio 2022\1project\TEST\x64\Debug\TEST.exe
